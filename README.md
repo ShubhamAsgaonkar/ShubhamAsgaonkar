@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Asgaonkar 
 
-<!--
-**ShubhamAsgaonkar/ShubhamAsgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevSecOps & Cloud Engineer** specializing in **AWS | EKS | CI/CD | Kubernetes | Docker | Azure**
 
-Here are some ideas to get you started:
+🚀 Currently building:
+- Containerizing ML models into Docker images  
+- Deploying them on **Amazon EKS**  
+- Creating an end-to-end CI/CD pipeline using **GitLab/Jenkins/CodePipeline**  
+- Automating model retraining pipelines for continuous updates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech & Tools
+
+| Domain              | Technologies & Tools |
+|---------------------|----------------------|
+| **Cloud**           | AWS (EKS, EC2, S3, Lambda, CodePipeline, Inspector), Azure (AKS, DevOps) |
+| **Containers & K8s**| Docker, Kubernetes, AWS EKS, Azure AKS |
+| **CI/CD**           | Jenkins, GitLab CI/CD, GitHub Actions, AWS CodePipeline |
+| **DevSecOps**       | SonarCloud, Trivy, OWASP ZAP, MobSF, AWS Inspector |
+| **Infra as Code**   | Terraform, ARM templates, YAML, Bash |
+| **Languages**       | Python, Bash, Java, TypeScript, Dart (Flutter) |
+
+---
+
+## 📂 Featured Projects
+
+### ⚙️ EKS Model Deployment & CI/CD (Ongoing)
+- Dockerized ML models and deployed to AWS EKS  
+- CI/CD pipelines with GitLab CI / Jenkins to automate builds and deployments  
+- Implemented automated **retraining pipelines** using latest datasets  
+
+### 📱 Mobile DevSecOps (Flutter + Jenkins)
+- Jenkins pipeline integrating SonarCloud (SAST), MobSF (APK analysis), Trivy  
+- Security gating and automated reports during app release  
+
+### 🔐 Secure Web App on AWS
+- CI/CD pipeline: React + Node.js + MongoDB  
+- Terraform-managed infra: EKS, ALB, WAF, ECR  
+- Integrated DevSecOps checks: SAST, DAST, container scanning  
+
+### 🧰 Amazon Q CLI Docker Image
+- Docker image with pre-configured Amazon Q CLI & MCP server  
+- Supports secure login and rapid IaC template generation  
+
+### ☁️ Azure DevOps Pipeline
+- CI/CD deploying a Reddit-like web app on Azure App Services  
+- Monitoring with Azure Monitor & SonarQube  
+- IaC via Docker and Azure pipelines  
+
+---
+
+## 📈 GitHub Stats
+
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamAsgaonkar&show_icons=true&theme=radical)
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shubham-asgaonkar/)  
+- 💻 [GitHub](https://github.com/ShubhamAsgaonkar)
+
+---
+
+> “A pipeline plumber 🛠️ — building secure, scalable, and automated cloud solutions.”
+
+---
+
+## ✅ Next Steps
+
+1. **Use as your main profile README** — rename a repo to `ShubhamAsgaonkar` and add this `README.md`.  
+2. **Pin key repos**: EKS deployments, DevSecOps pipelines, Amazon Q Docker — it helps recruiters visualize your expertise.
+
+---
+
+Let me know if you'd like help adding:
+- Links to specific repos  
+- Custom badges (e.g. AWS-certified, languages, tools)  
+- A dark/light theme tweak  
+- Or even an intro animated GIF/logo 😊
+::contentReference[oaicite:0]{index=0}
