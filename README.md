@@ -67,16 +67,3 @@
 
 ---
 
-## ✅ Next Steps
-
-1. **Use as your main profile README** — rename a repo to `ShubhamAsgaonkar` and add this `README.md`.  
-2. **Pin key repos**: EKS deployments, DevSecOps pipelines, Amazon Q Docker — it helps recruiters visualize your expertise.
-
----
-
-Let me know if you'd like help adding:
-- Links to specific repos  
-- Custom badges (e.g. AWS-certified, languages, tools)  
-- A dark/light theme tweak  
-- Or even an intro animated GIF/logo 😊
-::contentReference[oaicite:0]{index=0}
